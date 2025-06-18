@@ -1,0 +1,25 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Chimp face background -->
+  <circle cx="64" cy="64" r="50" fill="#10B981" stroke="#059669" stroke-width="4"/>
+  
+  <!-- Ears -->
+  <circle cx="25" cy="55" r="18" fill="#059669"/>
+  <circle cx="103" cy="55" r="18" fill="#059669"/>
+  <circle cx="25" cy="55" r="12" fill="#10B981"/>
+  <circle cx="103" cy="55" r="12" fill="#10B981"/>
+  
+  <!-- Face area -->
+  <ellipse cx="64" cy="75" rx="35" ry="30" fill="#D1FAE5"/>
+  
+  <!-- Eyes -->
+  <circle cx="48" cy="55" r="8" fill="#1F2937"/>
+  <circle cx="80" cy="55" r="8" fill="#1F2937"/>
+  <circle cx="50" cy="53" r="3" fill="white"/>
+  <circle cx="82" cy="53" r="3" fill="white"/>
+  
+  <!-- Nose -->
+  <ellipse cx="64" cy="72" rx="6" ry="4" fill="#059669"/>
+  
+  <!-- Smile -->
+  <path d="M 48 82 Q 64 90 80 82" stroke="#059669" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg> 
